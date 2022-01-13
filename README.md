@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @palkinngupta
-- 👀 I’m interested in competitive coding
 - 🌱 I’m currently learning data structures and algorithm in C++
 
 <!---
